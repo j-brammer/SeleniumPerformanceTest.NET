@@ -1,0 +1,9 @@
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\bin\Debug\SeleniumPerformanceTest.exe.config
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\bin\Debug\SeleniumPerformanceTest.exe
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\bin\Debug\SeleniumPerformanceTest.pdb
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\bin\Debug\WebDriver.dll
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\bin\Debug\WebDriver.xml
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\obj\Debug\SeleniumPerformanceTest.csprojResolveAssemblyReference.cache
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\obj\Debug\SeleniumPerformanceTest.csproj.CoreCompileInputs.cache
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\obj\Debug\SeleniumPerformanceTest.exe
+c:\users\jbrammer\documents\visual studio 2017\Projects\SeleniumPerformanceTest\SeleniumPerformanceTest\obj\Debug\SeleniumPerformanceTest.pdb
